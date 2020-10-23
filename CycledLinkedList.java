@@ -1,6 +1,7 @@
+//Kate Walker
 import java.util.*;
 
-//Kate Walker
+
 public class CycledLinkedList {
     public static Node head,tail;//initializing a variable of type node to store head and the tail
     int size=0;
