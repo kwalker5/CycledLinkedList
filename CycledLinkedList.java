@@ -4,7 +4,7 @@ import java.util.*;
 
 public class CycledLinkedList {
     public static Node head,tail;//initializing a variable of type node to store head and the tail
-    int size=0;
+    int size=0;//int to hold the size of the linkedlist
     public static class Node {//Node class
         int data;//int to store the nodes data
         Node next;//node to store the information of the next node
